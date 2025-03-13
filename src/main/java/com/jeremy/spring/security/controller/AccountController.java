@@ -10,5 +10,4 @@ public class AccountController {
     public  String getAccountDetails () {
         return "Here are the account details from the DB";
     }
-
 }
